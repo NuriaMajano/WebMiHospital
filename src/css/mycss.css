@@ -1,0 +1,63 @@
+.navbar-light{
+      background-color: #FAF2BB;
+}
+.nav-link:hover{
+    background-color: #8DEB5A; 
+    color: #3D5AFE !IMPORTANT;
+}
+.btn.btn-primary{
+    background-color: #8DEB5A;
+    color: #3D5AFE;
+}
+#verde{
+    background-color: #C6FFCE;
+}
+#verdenormal{
+   background-color: #7AE088;
+}
+#verdeoscuro{
+    background-color: #2A8236;
+}
+.active{
+    background-color: #8DEB5A; 
+    color: #3D5AFE !IMPORTANT;
+    font-weight: bold
+}
+
+footer{
+    width: 100%;
+    background-color: #FAF2BB;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    color: #3D5AFE;
+}
+
+.img-pequeña{
+    width: 35px; height: 35px;
+}
+#rsociales{
+     background-color: #FAF2BB;
+}
+#fondo{
+        background-color: #8DEB5A;
+}
+#btnenviar{
+    background-color: #3D5AFE;
+    color: #FAF2BB;
+}
+
+#router:hover{
+    background-color: #8DEB5A; 
+    color: #3D5AFE !IMPORTANT;
+}
+#router.active{
+    background-color: #8DEB5A; 
+    color: #3D5AFE !IMPORTANT;
+    font-weight: bold
+}
+nav li.router-link-active{
+    background-color: #8DEB5A; 
+    color: #3D5AFE !IMPORTANT;
+    font-weight: bold
+}
